@@ -16,4 +16,4 @@ Words that are not allowed
 
 Here is a good resource for extra motivation
 [<strong>motivate</strong>](https://motivationgrid.com/)
-:grinning:
+# :grinning:
