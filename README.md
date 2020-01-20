@@ -3,10 +3,17 @@
 - the ability to mentally adapt and overcome obstacles that you might encounter while learning new skills
 
 
-*Ways -blblbla* to stay in the growth mindset 
+Ways to stay in the growth mindset 
 - Dont ask for the answer but ask how to get the answer 
-- *Reflect* on everything that led you to that point and givce yourself credit
+- reflect on everything that led you to that point and give yourself credit
 - remeber the *end goal* 
 
+
+Words that are not allowed 
+- ~~give up~~
+- ~~i cant do this~~
+- ~~this is to hard~~
+
 Here is a good resource for extra motivation
-[website](https://motivationgrid.com/)
+[<strong>motivate</strong>](https://motivationgrid.com/)
+:grinning:
