@@ -4,7 +4,7 @@
 * code completion (helps and suggests code to fillin such as closing brackets)
 * helps write html and css more effienctly 
 * syntax highlighting (colors text so its more noticable)
-## Text ecditors that you might have heard of 
+## Text editors that you might have heard of 
 * Mac(Text edit)
 * Windows (Note pad)
 ## Third party text editors 
