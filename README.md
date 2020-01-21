@@ -1,5 +1,5 @@
-# learning-journal
-*Growth mindset*
+
+# Growth mindset
 - the ability to mentally adapt and overcome obstacles that you might encounter while learning new skills
 
 
@@ -10,10 +10,11 @@ Ways to stay in the growth mindset
 
 
 Words that are not allowed 
-- ~~give up~~
-- ~~i cant do this~~
-- ~~this is to hard~~
+1. ~~give up~~
+2. ~~i cant do this~~
+3. ~~this is to hard~~
 
-Here is a good resource for extra motivation
-[<strong>motivate</strong>](https://motivationgrid.com/)
+# My name is joseph lee and this is a link to 
+
+
 # :grinning:
