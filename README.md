@@ -1,6 +1,6 @@
 
 # Growth mindset
-- the ability to mentally adapt and overcome obstacles that you might encounter while learning new skills
+- The ability to mentally **adapt and overcome** obstacles that you might encounter while learning new skills
 
 
 Ways to stay in the growth mindset 
@@ -9,7 +9,7 @@ Ways to stay in the growth mindset
 - remeber the *end goal* 
 
 
-Words that are not allowed 
+Words that are not *allowed* 
 1. ~~give up~~
 2. ~~i cant do this~~
 3. ~~this is to hard~~
