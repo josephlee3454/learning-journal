@@ -1,12 +1,12 @@
 # Markdown is a way to style text on the web
 
-In this small article i will show you how to utilize some basic markdown skills
+In this small article i will show you how to utilize some basic markdown skills.
 
-## lists
+## Lists
 
 There are 2 types of lists you can use ordered and Unordered
-* ordered lists example: 1. subject
-* unordered example: (* ,- )(make sure you leave space between mark and subject)
+* Ordered lists example: 1. subject
+* Unordered example: (* ,- )(make sure you leave space between mark and subject)
 
 # Task lists 
 ## Example
@@ -22,7 +22,7 @@ There are 2 types of lists you can use ordered and Unordered
 ## H6 (######)
 
 # Emphasis
-### there are 2 ways that you can add emphasis to your text 
+### There are 2 ways that you can add emphasis to your text 
 * Italisize (*subject*)
 * Bold (**subject**)
 
