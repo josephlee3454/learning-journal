@@ -17,7 +17,7 @@ Words that are not *allowed*
 # My name is joseph lee and this is a link to my git hub portfolio page
 [git hub](https://github.com/josephlee3454/learning-journal)
 
-[next page](https://josephlee3454.github.io/learning-journal/learningmarkdown)
+[Directory]()
 
 ## Directory
 * 
