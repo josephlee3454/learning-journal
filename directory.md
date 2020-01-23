@@ -4,3 +4,4 @@
 * [Text Editor](https://josephlee3454.github.io/learning-journal/texteditor)
 * [color](https://josephlee3454.github.io/learning-journal/color)
 * [css](https://josephlee3454.github.io/learning-journal/CSS)
+* [js](https://josephlee3454.github.io/learning-journal/js)
