@@ -16,7 +16,6 @@ Words that are not *allowed*
 
 # My name is joseph lee and this is a link to my git hub portfolio page
 [git hub](https://github.com/josephlee3454/learning-journal)
-## Directory
-[Information on markdown](https://josephlee3454.github.io/learning-journal/learningmarkdown), [Getting a message across web design](https://josephlee3454.github.io/learning-journal/message), [Respositories](https://josephlee3454.github.io/learning-journal/remote), [Text Editor](https://josephlee3454.github.io/learning-journal/texteditor)
+* [directory](https://josephlee3454.github.io/learning-journal/directory)
 
 

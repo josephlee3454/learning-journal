@@ -58,13 +58,13 @@ in the HTML, as shown below:
 
 #####    color: blue; } 
 
-* this example came from [here](https://study.com/academy/lesson/external-style-sheets-in-css-definition-examples.html)
-### Internal css
+* [this example came from here](https://study.com/academy/lesson/external-style-sheets-in-css-definition-examples.html)
+### Internal css style sheets 
 * internal css is basically css rules within an html placement 
 * for example:
 ##### <style>
 ##### body{
- ##### background-color:yellow;
+##### background-color:yellow;
 #####  }
 ##### </style> 
 * the internal css will be between the title

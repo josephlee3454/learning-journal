@@ -16,7 +16,7 @@ sign. (#ee3e80)
 ### Color names
 * There are over a 147 predefined colors that are recognized(dark cayan)
 #### (p[
-#### bncolor: DarkCyan;]
+#### backround-color: DarkCyan;]
 ])
 
 ## backround color 
