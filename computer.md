@@ -2,7 +2,7 @@
 #### Broad actions a computer does are 
 ## *input*
 * For example your key board you use it to input data so right there is the action of input
-## *Storage and processing  
+## Storage and processing  
 * storage and processing works together for example when you input data it takes the info you inputed from memory (ram) and then stores it(hard drive). 
 ## Out put 
 * An easy example of outputing data would be when you watch netflix and your watching your favorite show basically what your reciving is data that netflix inputed so co can recieve the out put of data.
