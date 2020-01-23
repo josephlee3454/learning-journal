@@ -6,3 +6,4 @@
 * [css](https://josephlee3454.github.io/learning-journal/CSS)
 * [js](https://josephlee3454.github.io/learning-journal/js)
 * [computer basics](https://josephlee3454.github.io/learning-journal/computer)
+* [javascript](https://josephlee3454.github.io/learning-journal/javascript)
