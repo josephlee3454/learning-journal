@@ -2,3 +2,5 @@
 * [Getting a message across web design](https://josephlee3454.github.io/learning-journal/message)
 * [Respositories](https://josephlee3454.github.io/learning-journal/remote)
 * [Text Editor](https://josephlee3454.github.io/learning-journal/texteditor)
+* [color](https://josephlee3454.github.io/learning-journal/color)
+* [css]((https://josephlee3454.github.io/learning-journal/CSS)
