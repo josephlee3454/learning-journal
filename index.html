@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-image: url(https://www.motiongraphicstock.com/assets/images/jpg/5557eb3677c3d.jpg);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+.dropdown {
+  position:absolute;
+	display: inline-block;
+	height:20px; 
+    width:500px; 
+    margin: -20px -50px; 
+    position: absolute;;
+    top:50%; 
+		left:50%;
+		text-align: center;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+ background-image: url(https://www.motiongraphicstock.com/assets/images/jpg/5557eb3677c3d.jpg);
+ color:white;
+  width: 106%;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+</style>
+</head>
+<body>
+
+
+
+<article class="dropdown">
+  <div onclick="myFunction()" class="dropbtn">Heirarchy</div>
+  <section id="myDropdown" class="dropdown-content">
+		<div>
+			king
+			<p>the king of all the land </p>
+		</div>
+		<div>duke
+			<p>
+				the duke of all the land 
+			</p>
+		</div>
+		<div>
+			baron 
+			<p>
+				the baron of all the land
+			</p>
+		</div>
+	</section>
+</article>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>

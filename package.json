@@ -1,0 +1,20 @@
+{
+  "name": "learning-journal",
+  "version": "1.0.0",
+  "description": "- The ability to mentally **adapt and overcome** obstacles that you might encounter while learning new skills",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlee3454/learning-journal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephlee3454/learning-journal/issues"
+  },
+  "homepage": "https://github.com/josephlee3454/learning-journal#readme"
+}

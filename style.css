@@ -1,0 +1,37 @@
+/* Template by freewebsitetemplates.com */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin:0;
+  padding: 0; 
+}
+
+
+nav ul ul {
+  display: none;
+}
+
+  nav ul li:hover > ul {
+      display: block;
+  }
+
+
+#body {
+  background: url(images/bg-content.gif) repeat-x top left;
+  margin: 0;
+  padding: 0; 
+  min-width: 960px;
+}
+#body .header {
+  background: url(images/bg-body.gif) repeat-x bottom center; 
+  margin: 0 0 30px 0;
+}
+#body .header div {
+  background: url(images/smiling-man.jpg) no-repeat bottom right;
+  height: 472px;
+  margin: 0 auto;
+  padding: 0;
+  width: 960px;   
+}
+#body .header div div {
+  background: none;   
+  margin: 0;}
