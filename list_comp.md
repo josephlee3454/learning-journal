@@ -14,3 +14,15 @@
 
 
 ### The list comprehension starts with a '[' and ']', to help you remember that the result is going to be a list.
+
+```sqaures = []
+    for i in range (1,101)
+      sqaures.append(i**2)
+    print(sqaures)``
+
+
+
+## out put for both: [1,4,9,16,25,36 ...]
+
+
+sqaures2 = [i**2 for i in range (1,101)]
